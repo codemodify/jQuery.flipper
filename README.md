@@ -8,5 +8,8 @@ Here is the why:
 * don't blindly believe me, check the code first on the net then get back here and use this one
 * does not rely on the CSS's obvious and limiting "rotateY()"
 
+# Demo
+https://plnkr.co/edit/rPeU0gTpBm4HmF6BE0y5?p=preview
+
 # License
 True Free License
